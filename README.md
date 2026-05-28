@@ -1,5 +1,5 @@
 # Meu Projeto
-Texto escrito na master.
+Texto diferente na master agora.
 
 ## Objetivo
 aprender a usar o git na prática
