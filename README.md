@@ -1,6 +1,5 @@
 # Meu Projeto
-Texto diferente na master agora.
-
+Texto final após resolver o conflito.
 ## Objetivo
 aprender a usar o git na prática
 
