@@ -1,5 +1,5 @@
 # Meu Projeto
-Este é meu primeiro repositório Git.
+Este é meu projeto Git na master.
 
 ## Objetivo
 aprender a usar o git na prática
