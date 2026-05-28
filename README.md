@@ -1,5 +1,5 @@
 # Meu Projeto
-Versão da feature aqui.
+Texto escrito na master.
 
 ## Objetivo
 aprender a usar o git na prática
