@@ -1,5 +1,5 @@
 # Meu Projeto
-Este é meu projeto Git na master.
+Este é meu projeto Git na feature
 
 ## Objetivo
 aprender a usar o git na prática
