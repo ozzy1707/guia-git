@@ -1,7 +1,7 @@
 # Meu Projeto
 Texto final após resolver o conflito.
 ## Objetivo
-aprender git de forma prática e colaborativa com a equipe.
+aprender a usar o git na prática de forma colaborativa com a equipe.
 
 ## Como executar
 1. Clone o repositório
